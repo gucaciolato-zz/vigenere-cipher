@@ -1,4 +1,4 @@
-# 🔡 Cifra de Vegenere 🔤
+# 🔡 Cifra de Vigenere 🔤
 
 ![Linguagens](https://img.shields.io/badge/Linguagens-HTML5%20e%20JavaScript-brightgreen)
 
