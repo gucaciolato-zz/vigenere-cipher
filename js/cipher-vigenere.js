@@ -32,6 +32,8 @@ function cipher(text, key) {
 
     
 var word = prompt("Enter a word: ");
+word = word.toLowerCase();
 var key = prompt("Enter a key less than or equal to the word to be encrypted: ");
+key = key.toLowerCase();
 
 alert(word + " encrypted is: " + cipher(word, key) + ".");
